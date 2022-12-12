@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T16:50:36.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="_uliRxYzeaXoT8gnunw2" type="github"><diagram id="sckaNh276gjyUngrjvYj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-12T16:59:47.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="Fy7icbg33lDVQuyDLMeA" type="github">
+  <diagram id="m5ba1qC2TNFXc9WEMLzF" name="Trang-1">
+    <mxGraphModel dx="1753" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6TOKzUvaoTUKdmzTF4Bc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-1" value="dự án&lt;br&gt;(Website môi giới việc làm)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-4" value="Nguyễn Bá Tuyên&lt;br&gt;(Backend,khảo sát, tài liệu)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6TOKzUvaoTUKdmzTF4Bc-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-5" value="GVHD&lt;br&gt;Thầy Hoàng Quang Thắng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-7" value="Nguyễn Ngọc Kỳ&lt;br&gt;(Backend,khảo sát, tài liệu)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-9" value="Mai Văn Đạt&amp;nbsp;&lt;br&gt;(Backend,khảo sát, tài liệu)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-10" value="Lương Quang Linh&lt;br&gt;(Backend,khảo sát, tài liệu)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-11" value="Nguyễn Gia Thắng&lt;br&gt;(Backend,khảo sát, tài liệu)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="450" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-12" value="Trần Minh Tiến&lt;br&gt;(Backend,khảo sát, tài liệu)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TOKzUvaoTUKdmzTF4Bc-14" value="Nguyễn Công Sáng&lt;br&gt;(Fontend,khảo sát, tài liệu)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="525" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
